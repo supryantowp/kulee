@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Tatooine Girl",
+        "follow": true,
+        "avatar": "https://cdn.dribbble.com/users/2837665/avatars/normal/03c2095d1b9e935de7a30aa92440335b.jpeg?1641569718",
+        "images": [
+            {
+                "alt": "girl",
+                "src": "https://cdn.dribbble.com/users/2837665/screenshots/16182120/media/5d5d252eab76c1ca15a1fcb3647761d3.png?compress=1&resize=1200x900&vertical=top"
+            },
+            {
+                "alt": "girl",
+                "src": "https://cdn.dribbble.com/users/2837665/screenshots/15461853/media/e4141b2b6a10b9e074d05785e938f5ef.png?compress=1&resize=1200x900&vertical=top"
+            },
+            {
+                "alt": "girl",
+                "src": "https://cdn.dribbble.com/users/2837665/screenshots/15589873/media/94f3f3b2a7f92ffc0ebe704c20af3b8b.png?compress=1&resize=1200x900&vertical=top"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Herefor Studio",
+        "avatar": "https://cdn.dribbble.com/users/3476674/avatars/normal/ddf2e14ed8361a4d94fa24d52c28a123.png?1594250846",
+        "images": [
+            {
+                "alt": "👑",
+                "src": "https://cdn.dribbble.com/users/966188/screenshots/15229723/media/f68048296222b81d6153633ba458b140.jpg?compress=1&resize=1200x900&vertical=top"
+            },
+            {
+                "alt": "color blur",
+                "src": "https://cdn.dribbble.com/users/45782/screenshots/11304218/media/314bfdb8d30e516a763ae5b33e173f9e.jpg?compress=1&resize=1200x900&vertical=top"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Ray Dak Lam",
+        "avatar": "https://cdn.dribbble.com/users/932465/avatars/normal/973bd8cee80590f03ded32e843020710.png?1631119421",
+        "images": [
+            {
+                "alt": "2022",
+                "src": "https://cdn.dribbble.com/users/932465/screenshots/17201487/media/5ccd635feff6becb02076d4805334834.png?compress=1&resize=1200x900&vertical=top"
+            },
+            {
+                "alt": ":)",
+                "src": "https://cdn.dribbble.com/users/932465/screenshots/17079493/media/11f5a910c003c4d7b4b8571ec6415679.png?compress=1&resize=1200x900&vertical=top"
+            }
+        ]
+    }
+]
