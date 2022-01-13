@@ -9,7 +9,19 @@ import {
 } from '@chakra-ui/react'
 import React from 'react'
 
-const CardShowcase = ({ showcase }) => {
+export interface ShowCaseInterface {
+  name: string
+  avatar: string
+  cover: string
+  isVerif: boolean
+  isFollow: boolean
+}
+
+export interface CardShowcaseInterface {
+  showcase: ShowCaseInterface
+}
+
+const CardShowcase: React.FC<CardShowcaseInterface> = ({ showcase }) => {
   const { colorMode } = useColorMode()
 
   return (
