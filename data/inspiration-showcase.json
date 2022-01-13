@@ -10,17 +10,21 @@
         "name": "vijay verma",
         "avatar": "https://cdn.dribbble.com/users/914722/avatars/normal/ed44f87a2d4e9f25c0d17d3d4a6212fc.jpg?1560098438",
         "cover": "https://cdn.dribbble.com/users/914722/screenshots/16074515/media/883e9970de65c2579125caa7f79a871d.png?compress=1&resize=1200x900&vertical=top",
-        "isVerif": true
+        "isVerif": true,
+        "isFollow": false
     },
     {
         "name": "Febin_Raj",
         "avatar": "https://cdn.dribbble.com/users/1803663/avatars/normal/60d3da0909ab77188228e165bc73ef1b.jpg?1574523594",
         "cover": "https://cdn.dribbble.com/users/1803663/screenshots/11400179/media/25558ede8bcb553fd48d7ed339e136ee.png?compress=1&resize=1200x900&vertical=top",
-        "isFollow": true
+        "isVerif": false,
+        "isFollow": false
     },
     {
         "name": "Jay Master",
         "avatar": "https://cdn.dribbble.com/users/752561/avatars/normal/67da8800e10557842605d67141eec36c.jpg?1529089518",
-        "cover": "https://cdn.dribbble.com/users/752561/screenshots/17267636/media/47d34454ec661f306caeada951d0da0f.jpg?compress=1&resize=1200x900&vertical=top"
+        "cover": "https://cdn.dribbble.com/users/752561/screenshots/17267636/media/47d34454ec661f306caeada951d0da0f.jpg?compress=1&resize=1200x900&vertical=top",
+        "isVerif": false,
+        "isFollow": true
     }
 ]

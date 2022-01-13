@@ -18,7 +18,7 @@ export interface ArtistInterface {
   id: number
   name: string
   avatar: string
-  follow: boolean
+  isFollow: boolean
   images: ImagesInterface[]
 }
 
@@ -55,9 +55,9 @@ const CardArtist: React.FC<CardArtistProps> = ({ artist }) => {
           <Text>Jakobs Martino</Text>
           <Text
             fontWeight={'bold'}
-            textColor={artist.follow ? 'blue.300' : 'gray.600'}
+            textColor={artist.isFollow ? 'blue.300' : 'gray.600'}
           >
-            {artist.follow ? 'Following' : 'Follow'}
+            {artist.isFollow ? 'Following' : 'Follow'}
           </Text>
         </Flex>
       </Box>

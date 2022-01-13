@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Tatooine Girl",
-        "follow": true,
+        "isFollow": true,
         "avatar": "https://cdn.dribbble.com/users/2837665/avatars/normal/03c2095d1b9e935de7a30aa92440335b.jpeg?1641569718",
         "images": [
             {
@@ -23,6 +23,7 @@
         "id": 2,
         "name": "Herefor Studio",
         "avatar": "https://cdn.dribbble.com/users/3476674/avatars/normal/ddf2e14ed8361a4d94fa24d52c28a123.png?1594250846",
+        "isFollow": false,
         "images": [
             {
                 "alt": "👑",
@@ -37,6 +38,7 @@
     {
         "id": 3,
         "name": "Ray Dak Lam",
+        "isFollow": false,
         "avatar": "https://cdn.dribbble.com/users/932465/avatars/normal/973bd8cee80590f03ded32e843020710.png?1631119421",
         "images": [
             {
